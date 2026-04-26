@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Live Demo: [Click here to try the app!](https://puck-mood-app.vercel.app)
+### 🚀 Live Demo: [Click here to try the app!](https://puck-mood-91j2pjk2l-abhay-singh-parihars-projects.vercel.app/)
 
 > AI-powered real-time emotion detection using Google Gemini Vision
 
