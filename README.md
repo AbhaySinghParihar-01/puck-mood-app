@@ -6,7 +6,6 @@
 > Central University of Jammu
 
 ---
-# 🎭 PUCK – Analyse Your Mood
 
 ### 🚀 Live Demo: [Click here to try the app!](https://puck-mood-app.vercel.app)
 
